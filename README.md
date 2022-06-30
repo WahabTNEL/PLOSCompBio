@@ -9,7 +9,7 @@ To reconstruct Figures 3a and 3b, run 'NYU Code/GeneratePSDs_NYU.m' and 'RCH Cod
 
 To reconstruct Figures 4a and 4b, run 'NYU Code/ErrorvsDim_NYU.m' and 'RCH Code/ErrorvsDim_RCH.m'
 
-To reconstruct Figures 5a-b and 6a-b, 'NYU Code/run GPFA_NYU_FactorDecoding.m' and 'RCH Code/GPFA_RCH_FactorDecodimg.m'
+To reconstruct Figures 5a-b and 6a-b, 'NYU Code/run GPFA_NYU_FactorDecoding.m' and 'RCH Code/GPFA_RCH_FactorDecoding.m'
 
 To reconstruct Figure 7b and 7d, run 'VisualizeFactorWeights.m'
 
